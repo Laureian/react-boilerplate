@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Libraries
+
+- react-app-rewired
+- react-router
+- axios
+- formik
+- day.js
+
+## IMPORTANT!
+Because paths are no supported in CRA scripts you need to prepare ugly hack before it will be fixed.
+Read more [here](https://github.com/facebook/create-react-app/issues/9429#issuecomment-669615656).
